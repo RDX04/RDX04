@@ -1,9 +1,17 @@
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <img src="https://media1.tenor.com/m/ZNp_Ej5ab-YAAAAC/coding.gif" 
+       width="100%" 
+       height="400" 
+       style="position:absolute; top:0; left:0;" 
+       alt="MasterHead">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Rahul Dalal</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
+<image align="right" alt="coding" width="480" height="480" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVwczlxbjh0OXZpZW1wd2Jlb2xoaThyYjAwanAyaTRmeTI3eHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdx04&label=Profile%20views&color=0e75b6&style=flat" alt="rdx04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdx04" alt="rdx04" /></a> </p>
 
 - 🔭 I’m currently working on **Human Resource Management System(HRMS) under the supervision of National Informatics Centre(NIC)**
 
