@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Angular 16**
 
-- 📫 How to reach me **iamrahuldalal123@gmail.com**
+- 📫 Say Hi @ **iamrahuldalal123@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14yFbTiSE_jQoSpBVXl014BOcsavoqJuD/view?usp=sharing](https://drive.google.com/file/d/14yFbTiSE_jQoSpBVXl014BOcsavoqJuD/view?usp=sharing)
 
