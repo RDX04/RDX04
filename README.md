@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **Human Resource Management System(HRMS) under the supervision of National Informatics Centre(NIC)**
+- 🔭 I’m currently working on **Human Resource Management System(HRMS) under the supervision of National Informatics Centre(NIC), Kolkata**
 
 - 🌱 I’m currently learning **Nest.js, as well as Angular**
 
